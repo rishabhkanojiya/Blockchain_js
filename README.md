@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://nodejs.org/en/)
 
-Blockchain_js is decentralized blockchain network by using the nodejs and express running across five nodes synchronized with each other and with no conflicts between the nodes so that all nodes have same and exact data.
+Blockchain js is a decentralized blockchain network made using nodejs and express running across five nodes synchronized with each other and with no node conflicts so that all nodes have the same data.
 
 The Blockchain_js have all of the following features:
 
