@@ -4,9 +4,9 @@
 
 ![Screenshot from 2020-01-07 00-14-42](https://user-images.githubusercontent.com/30200462/71840448-57fb0700-30e3-11ea-9291-76974cdcd131.png)
 
-![Screenshot from 2020-01-07 00-15-37](https://user-images.githubusercontent.com/30200462/71840449-58939d80-30e3-11ea-931b-aeb95a1e82d3.png)
 
 ![Screenshot from 2020-01-07 00-16-40](https://user-images.githubusercontent.com/30200462/71840450-58939d80-30e3-11ea-9527-3385ff9c9465.png)
+
 
 
 Blockchain js is a decentralized blockchain network made using nodejs and express running across five nodes synchronized with each other and with no node conflicts so that all nodes have the same data.
@@ -33,6 +33,8 @@ Blockchain_js uses a number of open source projects to work properly:
 - [node.js](https://nodejs.org/en/) - evented I/O for the backend
 - [Express](https://expressjs.com/) - fast node.js network app framework [@tjholowaychuk]
 - [ReactJS](https://reactjs.org/) - HTML enhanced for web apps!
+- [Docker $ Docker-compose](https://www.docker.com/) - Securely build, share and run any application, anywhere.
+
 
 ## Installation
 
@@ -42,10 +44,26 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 $ git clone https://github.com/rishabhkanojiya/Blockchain_js.git
-$ cd Blockchain_js
-$ npm install
-$ npm run dev
+$ docker-compose up
 ```
+
+## Routes 
+
+## /home
+
+You can use the route /home to find blocks, transactions and addresses using the hash value.
+Use the api route /mine to obtain the hash value. 
+The /transaction/broadcast route can be used to access transactionId value. 
+The address of the sender or the receiver can be used in the Address section
+
+![Screenshot from 2020-01-07 00-16-40](https://user-images.githubusercontent.com/30200462/71840450-58939d80-30e3-11ea-9527-3385ff9c9465.png)
+
+
+
+## /api
+
+![Screenshot from 2020-01-07 00-15-37](https://user-images.githubusercontent.com/30200462/71840449-58939d80-30e3-11ea-931b-aeb95a1e82d3.png)
+
 
 ## Request & Response Examples
 
