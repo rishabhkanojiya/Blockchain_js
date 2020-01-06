@@ -55,10 +55,10 @@ $ docker-compose up
 
 ## /home
 
-You can use the route /home to find blocks, transactions and addresses using the hash value.
-Use the api route /mine to obtain the hash value. 
-The /transaction/broadcast route can be used to access transactionId value. 
-The address of the sender or the receiver can be used in the Address section
+* You can use the route /home to find blocks, transactions and addresses using the hash value.
+* Use the api route /mine to obtain the hash value. 
+* After using /transaction/ broadcast, the /blockchain route can be used to find the transactionId 
+* The address of the sender or the receiver can be used in the Address section
 
 ![Screenshot from 2020-01-07 00-16-40](https://user-images.githubusercontent.com/30200462/71840450-58939d80-30e3-11ea-9527-3385ff9c9465.png)
 
