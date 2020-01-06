@@ -1,6 +1,8 @@
 # Blockchain_js
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://nodejs.org/en/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://ec2-52-90-41-158.compute-1.amazonaws.com:3050/) [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
+![made with_ nodejs](https://user-images.githubusercontent.com/30200462/71843133-3270fc00-30e9-11ea-8761-fbbed9b8b617.png)
+![made with_ reactjs](https://user-images.githubusercontent.com/30200462/71843141-343abf80-30e9-11ea-86f3-964b096dcdd4.png)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://ec2-52-90-41-158.compute-1.amazonaws.com:3050/)
 
 
 
